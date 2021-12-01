@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux, openSUSE, OpenCL, DSD music on Linux, Eiffel
 - 🌱 I’m currently learning Scala
 - 💞️ I’m looking to collaborate on Scala, Linux, openSUSE, OpenCL, DSD music on Linux, Eiffel
-- 📫 How to reach me ...
+- 📫 How to reach me: as user Svyatko at https://forums.opensuse.org or https://www.phoronix.com
 
 <!---
 SvyatkoIAM/SvyatkoIAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
